@@ -1,0 +1,3 @@
+﻿  Functions.cpp
+c:\users\bilon\desktop\programming\final_bilbakalım\final_bilbakalım\functions.cpp(45): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\bilon\desktop\programming\final_bilbakalım\final_bilbakalım\functions.cpp(89): warning C4018: '<': imzalı/imzasız uyuşmazlığı

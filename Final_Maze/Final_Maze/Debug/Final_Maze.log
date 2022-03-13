@@ -1,0 +1,5 @@
+﻿  Bilal_Demir_152120191036.cpp
+c:\users\bilon\desktop\programming\final_maze\final_maze\bilal_demir_152120191036.cpp(10): warning C4005: 'max': makro yeniden tanımlama
+  d:\windows kits\10\include\10.0.17763.0\shared\minwindef.h(193): note: önceki 'max' tanımına bakın
+c:\users\bilon\desktop\programming\final_maze\final_maze\bilal_demir_152120191036.cpp(65): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Final_Maze.vcxproj -> C:\Users\bilon\Desktop\Programming\Final_Maze\Debug\Final_Maze.exe

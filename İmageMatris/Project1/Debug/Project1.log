@@ -1,0 +1,3 @@
+﻿  01.cpp
+c:\users\bilon\desktop\programming\İmagematris\project1\01.cpp(19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Project1.vcxproj -> C:\Users\bilon\Desktop\Programming\İmageMatris\Debug\Project1.exe
